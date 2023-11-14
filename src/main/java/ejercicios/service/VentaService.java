@@ -15,6 +15,6 @@ public interface VentaService {
 	
 	Venta Venta(Venta venta);
 	
-	void deleteVenta(int codigo);
+	void deleteVenta(int id);
 
 }
